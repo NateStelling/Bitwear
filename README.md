@@ -11,13 +11,9 @@ Selling on our platform is easy. All you need to do is create an account, upload
 
 Not only is our marketplace a great place to sell your digital clothing designs, but it's also an excellent place to discover new styles and trends. Our user-friendly search function allows you to find specific items or browse by category, so you're sure to find something that suits your style.
 
-We built our demo using Axure and Cartesi to mint nfts to the blockchain.
+We built our demo using Axure and Cartesi to mint NFTs to the blockchain.
 
-The main challenges we ran into were the actual minting with Cartesi as we were not expert coders.
+The main challenges we ran into were the actual minting with Cartesi as we were not expert coders. In the future we would like to finish the NFT minting and exchange functionalities.
 
-We are super proud that we built a demo, made a pitch and PowerPoint, and minted our first nft!
-
-We learned more about the blockchain community and how to mint nfts using Cartesi!
-
-We hope to fully pursue Bitwear and develop it into an actual space for metaverse influencers to sell and share their creations! :)
+Our team is very proud of the demo, business pitch, and PowerPoint that we developed, and we are thankful to Cartesi for providing us with such a great learning opportunity. 
 
