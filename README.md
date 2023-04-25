@@ -11,7 +11,7 @@ Selling on our platform is easy. All you need to do is create an account, upload
 
 Not only is our marketplace a great place to sell your digital clothing designs, but it's also an excellent place to discover new styles and trends. Our user-friendly search function allows you to find specific items or browse by category, so you're sure to find something that suits your style.
 
-We built our demo using Axure and Cartesi to mint NFTs to the blockchain.
+We built our demo using Axure and used Cartesi to mint NFTs to the blockchain.
 
 The main challenges we ran into were the actual minting with Cartesi as we were not expert coders. In the future we would like to finish the NFT minting and exchange functionalities.
 
