@@ -1,7 +1,7 @@
 # Bitwear
 Cartesi Hackathon Submission
 
-Bitwea is an online fashion marketplace that sells NFT digital clothing for the metaverse. Anyone can upload and sell unique designs. Stand out in the virtual world today!
+Bitwear is an online fashion marketplace that sells NFT digital clothing for the metaverse. Anyone can upload and sell unique designs. Stand out in the virtual world today!
 
 Our inspiration came from our team's love for fashion and our interest in the blockchain community.
 
